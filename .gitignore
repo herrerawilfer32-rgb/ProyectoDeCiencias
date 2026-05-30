@@ -1,0 +1,25 @@
+# Build outputs
+build/
+dist/
+*.class
+*.jar
+
+# Runtime/generated data
+data/esquemas/
+data/espacios/
+data_test/
+data_demo*/
+
+# Temporary persistence files
+*.tmp
+
+# IDE/user files
+.idea/
+.vscode/
+nbproject/private/
+*.iml
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
